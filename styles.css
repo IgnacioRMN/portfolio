@@ -15,7 +15,22 @@ main {
     padding: 20px;
 }
 
+#bordeinf {
+    border-bottom: 3px solid #dad9d9;
+    margin-bottom: 20px;
+}
 
+.roman-list {
+    list-style-type: upper-roman;
+    border-bottom: 3px solid #dad9d9;
+    margin-bottom: 20px;
+}
+
+.idiomas {
+    width: 40px;
+    margin: 4px;
+}
+    
 .logo-redes img {
     width: 40px;
     margin: 4px;
