@@ -26,11 +26,17 @@ main {
     margin-bottom: 20px;
 }
 
-.idiomas {
-    width: 40px;
-    margin: 4px;
+table {
+    border-collapse: collapse; 
+    width: 200px;
 }
-    
+
+td {
+    border: 1px solid rgb(88, 88, 88);
+    padding: 10px; 
+    text-align: center; 
+}
+
 .logo-redes img {
     width: 40px;
     margin: 4px;
